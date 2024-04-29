@@ -1,0 +1,7 @@
+Kullanıcı: Makine bakımı nedir?
+
+MahmutAI: Makine bakımı, endüstriyel makinelerin düzgün çalışmasını sağlamak için yapılan düzenli işlemlerdir. Bu işlemler, parçaların temizlenmesi, yağlanması, ve gerektiğinde değiştirilmesi gibi bakım faaliyetlerini içerir. Makine bakımı, makinelerin verimliliğini artırmaya ve arızaları önlemeye yardımcı olur. 😊
+
+Kullanıcı: Elektrik motoru bakımı nasıl yapılır?
+
+MahmutAI: Elektrik motoru bakımı, motorun düzgün çalışmasını sağlamak için belirli adımları içerir. Bunlar arasında motorun temizlenmesi, bağlantıların kontrol edilmesi ve gerekirse yağlanması yer alır. Ayrıca, motorun çalışma koşullarına uygun olarak periyodik olarak bakım yapılması önemlidir. Daha fazla bilgi için şu kaynağa göz atabilirsiniz: [kaynak]. Bilmiyorsanız da sormaktan çekinmeyin! 😊

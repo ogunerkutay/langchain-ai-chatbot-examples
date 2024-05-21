@@ -37,7 +37,7 @@ class ModelServiceClientSingleton:
             cls._instance = ModelServiceClient(credentials)
         return cls._instance
 
-#load_dotenv('../resources/.env') #use this to load the api key from .env files
+load_dotenv('../resources/.env') #use this to load the api key from .env files
 
 def get_api_key(key_name):
     """Get environment variables on the environment."""

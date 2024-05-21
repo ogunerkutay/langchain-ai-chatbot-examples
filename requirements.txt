@@ -16,3 +16,5 @@ langchain
 langchain_google_genai
 langchain-openai
 faiss-cpu
+google_auth_oauthlib
+python-dotenv
